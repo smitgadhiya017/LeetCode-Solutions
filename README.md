@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0347-top-k-frequent-elements](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search
 |  |
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
