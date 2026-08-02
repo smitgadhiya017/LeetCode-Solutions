@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
@@ -192,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
