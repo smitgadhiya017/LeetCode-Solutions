@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0344-reverse-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0344-reverse-string) |
 ## Sliding Window
 |  |
 | ------- |
