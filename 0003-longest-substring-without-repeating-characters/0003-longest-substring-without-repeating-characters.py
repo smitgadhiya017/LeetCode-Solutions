@@ -11,5 +11,5 @@ class Solution:
 
             set1.add(s[right])
             maxi = max(maxi, right - left + 1)
-
+        
         return maxi
