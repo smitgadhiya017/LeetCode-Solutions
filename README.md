@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
@@ -173,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
