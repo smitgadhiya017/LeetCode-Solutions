@@ -7,4 +7,4 @@ class Solution:
             a = b
             b = curr
 
-        return b
+        return b           
