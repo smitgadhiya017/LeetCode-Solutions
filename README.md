@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1929-concatenation-of-array](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [3731-find-missing-elements](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -178,10 +179,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0155-min-stack) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Simulation
 |  |
 | ------- |
