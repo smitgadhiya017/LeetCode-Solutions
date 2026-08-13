@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3731-find-missing-elements](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [1678-goal-parser-interpretation](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1678-goal-parser-interpretation) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 ## Sliding Window
 |  |
 | ------- |
