@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1929-concatenation-of-array](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3731-find-missing-elements](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Binary Search
