@@ -1,7 +1,10 @@
-from collections import Counter 
 class Solution:
     def singleNumber(self, nums: List[int]) -> int:
-        freq = Counter(nums)
-        for n,c in freq.items():
-            if c == 1:
-                return n
+        ans = defaultdict(int)
+        
+        for i in nums:
+            ans[i] += 1
+
+        for i in nums:
+            if ans[i] == 1:
+                return i
