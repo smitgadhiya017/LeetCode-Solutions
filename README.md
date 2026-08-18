@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1539-kth-missing-positive-number](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Hash Table
 |  |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -126,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0645-set-mismatch) |
