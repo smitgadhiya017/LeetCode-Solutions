@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3162-find-the-number-of-good-pairs-i](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3248-snake-in-matrix](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/3248-snake-in-matrix) |
 | [3731-find-missing-elements](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Memoization
 |  |
 | ------- |
