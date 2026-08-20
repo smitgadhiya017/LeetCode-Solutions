@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3248-snake-in-matrix](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/3248-snake-in-matrix) |
 | [3731-find-missing-elements](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3917-count-indices-with-opposite-parity](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/3917-count-indices-with-opposite-parity) |
 ## Binary Search
 |  |
 | ------- |
