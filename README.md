@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3024-type-of-triangle](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/3024-type-of-triangle) |
 | [3046-split-the-array](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/3046-split-the-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [3024-type-of-triangle](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/3024-type-of-triangle) |
 | [3731-find-missing-elements](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [3024-type-of-triangle](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/3024-type-of-triangle) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Memoization
 |  |
@@ -358,4 +361,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
