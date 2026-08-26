@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1193-monthly-transactions-i](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1193-monthly-transactions-i) |
 | [1280-students-and-examinations](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1280-students-and-examinations) |
 | [1341-movie-rating](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1341-movie-rating) |
+| [1484-group-sold-products-by-the-date](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1484-group-sold-products-by-the-date) |
 ## String
 |  |
 | ------- |
