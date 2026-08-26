@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0645-set-mismatch) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0561-array-partition) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0551-student-attendance-record-i](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0551-student-attendance-record-i) |
 | [1002-find-common-characters](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1002-find-common-characters) |
 | [1678-goal-parser-interpretation](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1678-goal-parser-interpretation) |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 ## Counting Sort
