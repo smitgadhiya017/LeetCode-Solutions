@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1002-find-common-characters](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1002-find-common-characters) |
 | [1051-height-checker](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1051-height-checker) |
+| [1200-minimum-absolute-difference](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1051-height-checker](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1051-height-checker) |
+| [1200-minimum-absolute-difference](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
