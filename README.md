@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1470-shuffle-the-array](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1002-find-common-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1051-height-checker](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
