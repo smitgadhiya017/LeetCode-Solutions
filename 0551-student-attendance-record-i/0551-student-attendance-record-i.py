@@ -1,18 +1,18 @@
 class Solution:
     def checkRecord(self, s: str) -> bool:
         a_count = 0
-        l_stric = 0
+        l_count = 0
 
-        for c in s:
-            if c == 'A':
+        for ch in s:
+            if ch == 'A':
                 a_count += 1
                 if a_count >= 2:
                     return False
-            
-            if c == 'L':
-                l_stric += 1
-                if l_stric >= 3:
+
+            if ch == 'L':
+                l_count += 1
+                if l_count >= 3:
                     return False
             else:
-                l_stric = 0
+                l_count = 0
         return True
