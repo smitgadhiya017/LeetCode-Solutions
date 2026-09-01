@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0434-number-of-segments-in-a-string](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
+| [0520-detect-capital](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0551-student-attendance-record-i) |
 | [1002-find-common-characters](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1002-find-common-characters) |
 | [1678-goal-parser-interpretation](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1678-goal-parser-interpretation) |
