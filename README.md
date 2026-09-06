@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3248-snake-in-matrix](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/3248-snake-in-matrix) |
 | [3340-check-balanced-string](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/3340-check-balanced-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/3884-first-matching-character-from-both-ends) |
+| [3931-check-adjacent-digit-differences](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/3931-check-adjacent-digit-differences) |
 ## Sliding Window
 |  |
 | ------- |
