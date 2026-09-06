@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3904-smallest-stable-index-ii](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 | [3917-count-indices-with-opposite-parity](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/3917-count-indices-with-opposite-parity) |
+| [3978-unique-middle-element](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/3978-unique-middle-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3046-split-the-array](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/3046-split-the-array) |
+| [3978-unique-middle-element](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/3978-unique-middle-element) |
 ## Quickselect
 |  |
 | ------- |
