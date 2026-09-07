@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-three-consecutive-odds](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1550-three-consecutive-odds) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [3904-smallest-stable-index-ii](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Design
 |  |
