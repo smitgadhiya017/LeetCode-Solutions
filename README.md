@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1768-merge-strings-alternately](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3884-first-matching-character-from-both-ends](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/3884-first-matching-character-from-both-ends) |
 ## Hash Table
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0551-student-attendance-record-i](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0551-student-attendance-record-i) |
 | [1002-find-common-characters](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1002-find-common-characters) |
 | [1678-goal-parser-interpretation](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1678-goal-parser-interpretation) |
+| [1768-merge-strings-alternately](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3248-snake-in-matrix](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/3248-snake-in-matrix) |
