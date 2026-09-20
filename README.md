@@ -338,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3248-snake-in-matrix](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/3248-snake-in-matrix) |
 | [3340-check-balanced-string](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/3340-check-balanced-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/3884-first-matching-character-from-both-ends) |
 | [3931-check-adjacent-digit-differences](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/3931-check-adjacent-digit-differences) |
 ## Sliding Window
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3248-snake-in-matrix](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/3248-snake-in-matrix) |
+| [3498-reverse-degree-of-a-string](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
