@@ -3,10 +3,9 @@ select
     x,
     y,
     z,
-    case
-        when (x + y) <= z or (y + z) <= x or (z + x) <= y
+    (case 
+        when (x + y) <= z or (y + z) <= x or (x + z) <= y
         then 'No'
         else 'Yes'
-        end
-    as triangle
+    end) as triangle
 from Triangle
