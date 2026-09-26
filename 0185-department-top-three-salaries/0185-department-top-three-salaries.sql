@@ -8,9 +8,9 @@ from(
         *,
         dense_rank() over(
             partition by departmentId
-            order by salary desc
-        ) as rnk
-    from Employee 
+            order by salary desc 
+        )as rnk
+    from Employee
 )e
 join Department d
 on e.departmentId = d.id
