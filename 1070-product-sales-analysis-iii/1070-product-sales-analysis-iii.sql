@@ -1,12 +1,16 @@
 # Write your MySQL query statement below
-select
+with cte as(
+    select *,
+    rank() over(
+        partition by product_id
+        order by year
+    ) as RowNumber
+    from Sales
+)
+select 
     product_id,
     year as first_year,
     quantity,
     price
-from Sales
-where (product_id,year) in (
-    select product_id, min(year)
-    from sales
-    group by product_id
-)
+from cte
+where RowNumber = 1
