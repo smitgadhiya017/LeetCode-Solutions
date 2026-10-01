@@ -1,10 +1,13 @@
 # Write your MySQL query statement below
+with cte as (
+    select *,
+    sum(weight) over(
+        order by turn
+    ) as total_weight
+    from Queue
+) 
 select person_name
-from Queue q1
-where (
-    select sum(q2.weight)
-    from Queue q2
-    where q2.turn <= q1.turn
-) <= 1000
-order by q1.turn desc
+from cte
+where total_weight <= 1000
+order by total_weight desc
 limit 1
