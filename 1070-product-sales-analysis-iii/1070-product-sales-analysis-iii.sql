@@ -1,7 +1,7 @@
 # Write your MySQL query statement below
 with cte as(
     select *,
-    rank() over(
+    dense_rank() over(
         partition by product_id
         order by year
     ) as RowNumber
