@@ -11,7 +11,5 @@ select
             limit 1
         ),10
     ) as price
-from(
-    select distinct product_id
-    from Products
-)p
+from Products p
+group by p.product_id
