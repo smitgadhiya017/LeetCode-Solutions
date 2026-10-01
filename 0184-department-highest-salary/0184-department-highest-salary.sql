@@ -1,13 +1,16 @@
-# Write your MySQL query statement below
+with cte as(
+    select
+        name,
+        salary,
+        departmentId,
+        dense_rank() over(partition by departmentId order by salary desc) as rnk
+    from Employee
+)
 select 
     d.name as Department,
-    e.name as Employee,
-    e.salary as Salary
-from Employee e 
-join Department d 
-on e.departmentId = d.id
-where e.salary = (
-    select max(salary) 
-    from Employee
-    where departmentId = e.departmentId
-);
+    c.name as Employee,
+    c.salary
+from cte c
+join department d
+on c.departmentId = d.id
+where rnk = 1;
