@@ -5,10 +5,10 @@ class Solution(object):
         :type strs: List[str]
         :rtype: List[List[str]]
         """
-        group = defaultdict(list)
+        ans = defaultdict(list)
 
-        for word in strs:
-            key = ''.join(sorted(word))
-            group[key].append(word)
+        for i in strs:
+            key = ''.join(sorted(i))
+            ans[key].append(i)
 
-        return (group.values())
+        return (ans.values())
