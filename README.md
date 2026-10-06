@@ -370,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0551-student-attendance-record-i) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1002-find-common-characters](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1002-find-common-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0682-baseball-game) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0561-array-partition) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0976-largest-perimeter-triangle](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -533,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Binary Search Tree
