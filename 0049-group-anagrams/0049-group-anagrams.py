@@ -11,4 +11,4 @@ class Solution(object):
             key = ''.join(sorted(i))
             ans[key].append(i)
 
-        return (ans.values())
+        return ans.values()
