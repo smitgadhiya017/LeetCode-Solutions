@@ -1,15 +1,14 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
-        candidate = 0
-        count = 0
+        ans = defaultdict(int)
 
         for i in nums:
-            if count == 0:
-                candidate = i
+            ans[i] += 1
 
-            if i == candidate:
-                count += 1
-            else:
-                count -= 1
-        
-        return candidate
+        maxi = 0
+        for n,c in ans.items():
+            maxi = max(maxi,c)
+
+        for n,c in ans.items():
+            if maxi == c:
+                return n
