@@ -3,13 +3,10 @@ class Solution:
         max_profit = 0
         min_price = prices[0]
 
-        for i in prices:
-            if i < min_price:
-                min_price = i
+        for i in range(len(prices)):
+            if prices[i] < min_price:
+                min_price = prices[i]
 
-            profit = i - min_price
-
-            if profit > max_profit:
-                max_profit = profit
+            max_profit = max(max_profit,prices[i] - min_price)
 
         return max_profit
