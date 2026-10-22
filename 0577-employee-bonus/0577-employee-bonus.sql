@@ -1,5 +1,5 @@
 # Write your MySQL query statement below
-select
+select 
     e.name,
     b.bonus
 from Employee e
