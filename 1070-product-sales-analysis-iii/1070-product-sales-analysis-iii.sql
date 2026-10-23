@@ -4,7 +4,7 @@ with cte as(
     dense_rank() over(
         partition by product_id
         order by year
-    ) as RowNumber
+    ) as rnk
     from Sales
 )
 select 
@@ -13,4 +13,4 @@ select
     quantity,
     price
 from cte
-where RowNumber = 1
+where rnk = 1
