@@ -2,7 +2,7 @@
 select
     r.contest_id,
     round(
-        count(r.user_id) * 100 / (select count(*) from Users)
+        count(r.user_id) * 100 / (select count(*) from Users)    
     ,2) as percentage
 from Users u
 join Register r
