@@ -1,5 +1,5 @@
 # Write your MySQL query statement below
-select 
+select
     user_id,
     count(*) as followers_count
 from Followers
