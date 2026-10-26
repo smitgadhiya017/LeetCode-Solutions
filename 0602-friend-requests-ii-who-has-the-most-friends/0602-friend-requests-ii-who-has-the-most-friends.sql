@@ -1,4 +1,3 @@
-# Write your MySQL query statement below
 select
     id,
     count(*) as num
@@ -6,9 +5,9 @@ from(
     select requester_id as id
     from RequestAccepted
 
-    union all
+    union all 
 
-    select accepter_id as id
+    select accepter_id as id 
     from RequestAccepted
 ) t
 group by id
