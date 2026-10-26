@@ -1,5 +1,4 @@
-# Write your MySQL query statement below
-select 
+select
     patient_id,
     patient_name,
     conditions
