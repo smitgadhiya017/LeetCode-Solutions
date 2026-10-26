@@ -1,17 +1,16 @@
-# Write your MySQL query statement below
-with topSalary as(
+with cte as(
     select *,
     dense_rank() over(
         partition by departmentId
         order by salary desc
-    ) as top_salary
+    ) as rnk
     from Employee
 )
 select 
     d.name as Department,
-    tp.name as Employee,
-    tp.salary as Salary
-from Department d
-join topSalary tp
-on d.id = tp.departmentId
-where tp.top_salary <= 3
+    c.name as Employee,
+    c.salary
+from cte c
+join Department d
+on c.departmentId = d.id
+where c.rnk <= 3
