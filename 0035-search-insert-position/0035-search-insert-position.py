@@ -5,6 +5,6 @@ class Solution(object):
                 return i
             elif nums[i] > target:
                 return i
-
+        
         return len(nums)
         
