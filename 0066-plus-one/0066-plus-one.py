@@ -3,12 +3,7 @@ class Solution:
         str1 = ""
         for i in digits:
             str1 += str(i)
-             
-        temp = int(str1) + 1
-        
-        str2 = str(temp)
-        ans = []
-        for i in range(len(str2)):
-            ans.append(int(str2[i]))
-        
-        return ans
+
+        total = int(str1) + 1
+
+        return list(map(int, str(total)))
