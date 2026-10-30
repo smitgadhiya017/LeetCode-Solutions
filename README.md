@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0804-unique-morse-code-words](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0804-unique-morse-code-words) |
+| [0806-number-of-lines-to-write-string](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0832-flipping-an-image](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0551-student-attendance-record-i) |
 | [0804-unique-morse-code-words](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0804-unique-morse-code-words) |
+| [0806-number-of-lines-to-write-string](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1002-find-common-characters](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1002-find-common-characters) |
 | [1021-remove-outermost-parentheses](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
