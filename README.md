@@ -430,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0139-word-break) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0682-baseball-game](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
