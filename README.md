@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0792-number-of-matching-subsequences](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0792-number-of-matching-subsequences) |
 | [0804-unique-morse-code-words](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0832-flipping-an-image](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0792-number-of-matching-subsequences](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0792-number-of-matching-subsequences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1539-kth-missing-positive-number](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0645-set-mismatch) |
+| [0792-number-of-matching-subsequences](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0792-number-of-matching-subsequences) |
 | [0804-unique-morse-code-words](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0804-unique-morse-code-words) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1002-find-common-characters](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1002-find-common-characters) |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0792-number-of-matching-subsequences](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0792-number-of-matching-subsequences) |
 | [0976-largest-perimeter-triangle](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1051-height-checker) |
@@ -352,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0792-number-of-matching-subsequences](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0792-number-of-matching-subsequences) |
 ## Database
 |  |
 | ------- |
@@ -450,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0551-student-attendance-record-i) |
+| [0792-number-of-matching-subsequences](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0792-number-of-matching-subsequences) |
 | [0804-unique-morse-code-words](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -659,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0139-word-break) |
+| [0792-number-of-matching-subsequences](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0792-number-of-matching-subsequences) |
 ## Binary Indexed Tree
 |  |
 | ------- |
