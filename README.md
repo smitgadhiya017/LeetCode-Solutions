@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0809-expressive-words](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0809-expressive-words) |
+| [0811-subdomain-visit-count](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0811-subdomain-visit-count) |
 | [0832-flipping-an-image](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0792-number-of-matching-subsequences](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0792-number-of-matching-subsequences) |
 | [0804-unique-morse-code-words](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0804-unique-morse-code-words) |
+| [0811-subdomain-visit-count](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0811-subdomain-visit-count) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1002-find-common-characters](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1002-find-common-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0811-subdomain-visit-count](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0811-subdomain-visit-count) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3046-split-the-array](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/3046-split-the-array) |
@@ -461,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0809-expressive-words](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0809-expressive-words) |
+| [0811-subdomain-visit-count](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0811-subdomain-visit-count) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1002-find-common-characters](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1002-find-common-characters) |
 | [1021-remove-outermost-parentheses](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
