@@ -5,6 +5,7 @@
         from Accounts
         where income < 20000
 )
+
 union all
 (
     select 
@@ -13,6 +14,7 @@ union all
         from Accounts
         where income between 20000 and 50000
 )
+
 union all
 (
     select 
