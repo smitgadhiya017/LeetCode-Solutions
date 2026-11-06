@@ -1,4 +1,3 @@
-# Write your MySQL query statement below
 with cte as(
     select *,
     dense_rank() over(
@@ -7,5 +6,5 @@ with cte as(
     from Employee
 )
 select max(salary) as SecondHighestSalary
-from cte 
+from cte
 where rnk = 2
