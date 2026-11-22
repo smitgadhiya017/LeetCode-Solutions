@@ -3,7 +3,7 @@ select
     p.product_id,
     ifnull(
         round(
-            sum(p.price * u.units) / sum(u.units)    
+            sum(p.price * u.units) / sum(u.units)
         ,2)
     ,0) as average_price
 from Prices p
