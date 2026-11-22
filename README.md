@@ -487,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3248-snake-in-matrix](https://github.com/smitgadhiya017/LeetCode-Solutions/tree/master/3248-snake-in-matrix) |
