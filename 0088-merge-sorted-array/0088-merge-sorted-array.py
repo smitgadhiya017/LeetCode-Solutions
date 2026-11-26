@@ -13,7 +13,7 @@ class Solution:
                 i -= 1
             else:
                 nums1[k] = nums2[j]
-                j -= 1
+                j -=1
             k -= 1
 
         while j >= 0:
